@@ -3,6 +3,18 @@
     <channel>
         <title>Harbor</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Sat, 07 Nov 2026 12:27:12 +0000</pubDate>
+            <sparkle:version>105</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Harbor 1.0.2</p>
+<p>Trascinando un volume (per esempio il disco di un&#x27;installazione) sul Cestino, il Cestino diventa Espelli come nel Dock di macOS e il volume viene espulso; il tray non si apre più.</p>
+<p>Il Cestino e l&#x27;icona Espelli usano ora la grafica del Dock di macOS, anche con il tema scuro.</p>
+]]></description>
+            <enclosure url="https://github.com/VbaApplication/Harbor-releases/releases/download/v1.0.2/Harbor-1.0.2.dmg" length="14754700" type="application/octet-stream" sparkle:edSignature="G5eVV/0LJTfz79b18sHgl8X8HUBkYxtP6J8XfxcPsIpQ1D9K0Ns/chJp1Lnz2vnYyEv7HPiC/PwUC4lve+bLDw=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Sat, 07 Nov 2026 11:27:55 +0000</pubDate>
             <sparkle:version>103</sparkle:version>
