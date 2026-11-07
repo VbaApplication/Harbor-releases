@@ -3,6 +3,18 @@
     <channel>
         <title>Harbor</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Sat, 07 Nov 2026 11:27:55 +0000</pubDate>
+            <sparkle:version>103</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Harbor 1.0.1</p>
+<p>Il Dock di macOS torna nascosto anche dopo un aggiornamento di macOS o un riavvio interrotto: prima poteva ricomparire in basso finché non si chiudeva e riapriva Harbor.</p>
+<p>Il controllo dei blocchi non scambia più lo stop del Mac per un blocco e tiene solo gli ultimi 20 report, così la cartella dei log non cresce più.</p>
+]]></description>
+            <enclosure url="https://github.com/VbaApplication/Harbor-releases/releases/download/v1.0.1/Harbor-1.0.1.dmg" length="14740707" type="application/octet-stream" sparkle:edSignature="ImVBsBEjjzU4Mpu+Fn0DAmizt3z5JynpOG667FGH3LlxnJyg/YXuwAhoQLFIVmVB4dM5rR3TfVIsDSXzE+3+CQ=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Wed, 04 Nov 2026 10:59:05 +0000</pubDate>
             <sparkle:version>95</sparkle:version>
